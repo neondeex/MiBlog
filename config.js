@@ -11,8 +11,8 @@ module.exports = {
     contacts: {
       linkedin: "https://www.linkedin.com/in/emiliano-fern%C3%A1ndez-19826216b/",
       github: "https://github.com/neondeex",
-      stackoverflow:
-        "https://stackoverflow.com/users/10094242/neondeex?tab=profile",
+      stackoverflow: "https://stackoverflow.com/users/10094242/neondeex?tab=profile",
+      freecodecamp: "https://www.fxsdf.com",
       twitter: "https://twitter.com/neondeex",
     },
   },
