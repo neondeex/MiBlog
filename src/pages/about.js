@@ -33,8 +33,6 @@ const AboutPage = (props) => {
                     <div className="mt-3">
                         <h2 className="heading">Sobre mi</h2>
                         <p><i>Soy NeonDeex o Emiliano Fernandez!</i></p>
-                        <br />
-                        <h4>Habilidades</h4>
                         <div>
                             <span className="text-success d-inline-block" title="blazing">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
