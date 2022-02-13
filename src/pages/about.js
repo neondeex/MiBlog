@@ -41,6 +41,7 @@ const AboutPage = (props) => {
                             </span>
                             <p className="d-inline-block ml-3 w-75 align-top">Bienvenido a mis aventuras!</p>
                         </div>
+                    </div>
                 </div>
             </div>
         </Layout>
