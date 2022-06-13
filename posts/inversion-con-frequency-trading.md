@@ -1,6 +1,8 @@
 ---
+title: "First blog post"
+tags: ["nodejs", "express"]
 published: true
-date: 2022-03-01T20:51:51.605Z
-title: Inversion con frequency trading
+date: "2022-1-29"
 ---
-Hola hola
+
+Welcome to the blog!
